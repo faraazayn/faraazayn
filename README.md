@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Faraaz 👋
 
-<!--
-**faraazayn/faraazayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer focused on building scalable full-stack and AI-driven systems.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on AI-powered web applications  
+- 🧠 Interested in Machine Learning, System Design, and Cloud  
+- 🚀 Co-Founder at Kafzion AI  
+- 🌍 Passionate about using technology to solve real-world problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript, Java  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js, Flask  
+- **AI/ML:** Scikit-learn, TensorFlow, OpenAI APIs  
+- **Cloud:** AWS, Docker  
+
+### 📌 Featured Projects
+- 🤖 Full-Stack AI Chatbot  
+- 🔍 Credit Card Fraud Detection (ML)  
+- 👁️ Real-Time Face Mask Detection  
+- 🎬 Movie Recommendation System  
+
+📫 Reach me:  
+- LinkedIn: https://linkedin.com/in/yourname  
+- Website: https://kafzionai.com
