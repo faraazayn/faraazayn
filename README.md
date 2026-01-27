@@ -8,5 +8,5 @@ I’m a Software Engineer focused on building scalable full-stack and AI-driven 
 - 🌍 Passionate about using technology to solve real-world problems  
 
 📫 Reach me:  
-- LinkedIn: https://linkedin.com/in/yourname  
+- LinkedIn: https://linkedin.com/in/faraazuddinkhan 
 - Website: https://kafzionai.com
