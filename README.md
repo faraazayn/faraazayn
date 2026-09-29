@@ -1,31 +1,20 @@
 # Faraazuddin Khan
 
-### Building software. Exploring AI. Shipping ideas.
+### I build software at the edge of AI.
 
-Computer Science Engineer focused on AI/ML, software engineering, and building things that solve real problems.
+Computer Science Engineer exploring AI, intelligent systems, and modern software development.
+
 🔵 AI / Machine Learning  
 🔷 Software Engineering  
 🟣 Full-Stack Development  
 🟠 Cloud & Automation  
 
-Currently building, experimenting, and learning through real-world projects.
+Interested in turning ideas into useful products and continuously learning through projects and experimentation.
 
-### What I'm Into
+**Founder of KAFZION AI**
 
-AI · LLMs · Intelligent Systems · Developer Tools · Automation · Scalable Software
+AI · LLMs · Intelligent Systems · Automation · Software
 
-### Building
-
-**Kafzion AI** — exploring practical applications of AI and software.
-
-[LinkedIn](https://www.linkedin.com/in/faraazuddinkhan/) · [Website](https://kafzionai.com)
+[Portfolio](https://faraaz.online) · [LinkedIn](https://www.linkedin.com/in/faraazuddinkhan/) · [KAFZION AI](https://kafzionai.com)
 
 > Build things worth using.
-
----
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/faraazuddinkhan/) · [Website](https://kafzionai.com)
-
-**Build with purpose. Learn continuously. Ship what matters.**
