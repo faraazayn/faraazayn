@@ -1,31 +1,26 @@
-# Hi, I'm Faraazuddin Khan
+# Faraazuddin Khan
 
-### Computer Science Engineer | AI/ML | Software Engineering
+### Building software. Exploring AI. Shipping ideas.
 
-I build software, explore AI, and turn ideas into practical products.
+Computer Science Engineer focused on AI/ML, software engineering, and building things that solve real problems.
+🔵 AI / Machine Learning  
+🔷 Software Engineering  
+🟣 Full-Stack Development  
+🟠 Cloud & Automation  
 
-I'm interested in AI, Machine Learning, Full-Stack Development, automation, and scalable systems.
+Currently building, experimenting, and learning through real-world projects.
 
----
+### What I'm Into
 
-### Tech Stack
+AI · LLMs · Intelligent Systems · Developer Tools · Automation · Scalable Software
 
-🔵 Python · Java · JavaScript · SQL  
-🟢 React · Node.js · Flask  
-🟣 Machine Learning · Generative AI · LLMs  
-🟠 AWS · Docker · Git · CI/CD  
-🔴 MySQL · MongoDB
+### Building
 
----
+**Kafzion AI** — exploring practical applications of AI and software.
 
-### What I'm Building
+[LinkedIn](https://www.linkedin.com/in/faraazuddinkhan/) · [Website](https://kafzionai.com)
 
-• AI-powered applications  
-• Full-stack products  
-• Machine Learning systems  
-• Automation and intelligent tools  
-
-Currently building and experimenting with ideas through **Kafzion AI**.
+> Build things worth using.
 
 ---
 
